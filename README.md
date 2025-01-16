@@ -59,3 +59,5 @@ Thanks [@tedpearson](https://github.com/tedpearson) for his [go implementation](
 
 # This sucks, can you even write proper HA integrations?
 Nope, and I don't intend to, as I genuinely despise Python. Feel free to use as is, but I'll also happily accept PRs to make this thing better :)
+
+# Test
